@@ -7,5 +7,5 @@
 6) `curl --request GET 'http://localhost:3000/subscriptions?currency=BTC&amount=10000'                `                             
 
 ## TODO:
-add regexp for amount validation
+add regexp for amount validation                    
 test
